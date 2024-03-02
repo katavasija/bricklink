@@ -1,2 +1,2 @@
 # bricklink
-bricklink.com stats parser
+This was console parser of bricklink.com statistics parser
